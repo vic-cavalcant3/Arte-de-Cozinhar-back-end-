@@ -1,0 +1,43 @@
+
+var ftGUID_7905424="6253EB5D4B6EA4";
+var ftConfID_7905424="0";
+var ftParams_7905424="ft_custom=i0m2N4xM6jOSGehk3lW6YIsao2mJTep8ihu2N9pIuGCPT-1jQb4_Jg==&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Ffitoterapia_1347382%3Fk%3D1741981375433%26sign-up%3Dgoogle&gdpr=0&ftClick=https://exch.quantserve.com/r?&a=p-1RYxePXT9bCS2&labels=_qc.clk,_click.adserver.rtb,_click.rand.1916206319&rtbip=192.184.70.164&rtbdata2=EAw6GGh0dHBzOi8vd3d3LmZsYXRpY29uLmNvbVooYjBvb3ZHeE5mTHgwU1N5Nk8weGs3bUZMS0wxMFNIdTVPMHVWNU0zMYABpfvonga6ARhaNTBtQThBb0lVb0FMdFBXQlUubW9BQUHAAcC4AsgB6oC6sdky2gEkNDE4ZjM0ZGItYWY1YS00MTRiLTg2NWQtNWM4ZmUwNjEwN2MysAIIyAIA0ALO4Yb7-J_3zKkB6AKaAvICDgjw0SgQh_7ShY_Dh-Vu8gIOCJoCEJWg86SPlqnHmgH4AgCKAwYxOTI5MzGYAwCoAwCyAwTJP5MCugMSCV5EYWkVQw5gEbAgUBKbJcKowgMSCfBCnpGclx2SEWa2xQzIgN2dyAOigICBAdgD7_nbkQfiAw9wLTFSWXhlUFhUOWJDUzLqAwUI2AUQWvIDCTAxMTAxLTA4MPgDAIAEsAKKBAI3N5IEH0lYM1RQUTFIaWdoVmlld2FiaWxpdHlRdWFudGNhc3SaBBIJXEL5JAGr9SgRzeSQQniLeYeiBBIJXkRhaRVDDmARsCBQEpslwqiqBBIJXkRhaRVDDmARsCBQEpslwqi4BNAF0AQG8gQCQlKABQGKBSoyMGU2OTRhNmQ2ZDQyZTBkYmY3ZDhkODljOTZlNDAxZGJlMWY1YWEyYjSQBQGaBRUg5pSm1tQuDb99jYnJbkAdvh9aorSiBSQ2a0ZNSmZVQ1FSVE1YSGNad25sZlBOd0RReUNSVXVobDd2az24BQDABZGGpO4IyAWxuKkE0gUGCAMQAhgN6AUFmgYUChIJXEL5JAGr9SgRzeSQQniLeYegBgC1Bp43lDm6BlwKAkJSEgJTUBjp0QQiC3NhbyUyMHBhdWxvKgkwMTEwMS0wODA6GnRlbGVmb25pY2ElMjBicmFzaWwlMjBzLmEuWhp0ZWxlZm9uaWNhJTIwYnJhc2lsJTIwcy5hLskG12BCahhJxgnQBjjYBjjiBh1fZnAuZXZlbnQuRURVIFBhaWQgQ29udmVyc2lvbuoGEWh0dHBzOi8vYWRvYmUuY29t8QYAiEJqGEnGCYAHAA&redirecturl3=&site_url=flaticon.com&cachebuster=35641.64613213361";
+var ftKeyword_7905424="";
+var ftCustom_7905424="i0m2N4xM6jOSGehk3lW6YIsao2mJTep8ihu2N9pIuGCPT-1jQb4_Jg==";
+var ftSection_7905424="";
+var ftSegment_7905424="";
+var ftSegmentList_7905424=[];
+var ftRuleMatch_7905424="0";
+var ftTimestamp_7905424="1741981483";
+var ftGeoC2_7905424="br";
+var ftGeoState_7905424="sp";
+var ftGeoCity_7905424="sao paulo";
+var ftISP_7905424="telefonica brasil s.a.";
+var ftSpeed_7905424="broadband";
+var ftConnType_7905424="wifi";
+var ftDMA_7905424="76009";
+var ftLong_7905424="-46.63";
+var ftLat_7905424="-23.52";
+var ftPostal_7905424="01101-080";
+var ftTimeZone_7905424="-300";
+var ftMobileCarrier_7905424="";
+var ftImp7905424 = {};
+ftImp7905424.privacy = "x";
+ftImp7905424.guidAge = "29";
+ftImp7905424.impID = "134DBA38-D88D-B475-DA15-FCFF61F98A3D";
+ftImp7905424.duid = "FT:6253EB5D4B6EA4";
+
+ftImp7905424.ft_tpplid = "";
+ftImp7905424.ft_c = {};
+ftImp7905424.gdpr = "0";
+ftImp7905424.gdpr_consent = "";
+ftImp7905424.gdpr_pd = "";
+ftImp7905424.oob_consent = "";
+ftImp7905424.gdprStoredConsent = "";
+ftImp7905424.us_privacy = "";
+ftImp7905424.gpc = "";
+
+ftImp7905424.jsAppend = "1";
+var ftCreativeId_7905424 = "5209987";
+(function(){var tag=document.getElementById("ft_servedby_7905424")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7905424";js.setAttribute("name","ftscript_m7905424");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7905424");
+
