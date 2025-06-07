@@ -1,2 +1,9 @@
-# Arte-de-Cozinhar-back-end-
-Back-End arte de cozinhar trabalho feito na materia do marcelo
+# 🍽️ Arte de Cozinhar - Back-End
+
+Este repositório contém o back-end do projeto **Arte de Cozinhar**, desenvolvido como parte da disciplina de Desenvolvimento de Sistemas no SENAI, sob orientação do professor Marcelo.
+
+## 🔧 Tecnologias utilizadas
+- PHP
+- HTML/CSS
+- JavaScript
+- MySQL
